@@ -1,10 +1,10 @@
 # SNAKE GAME
 
->> This game uses mediapipe, which is a model trained by google to recognise the hands and opencv 
->> to recognize your index finger from the identified landmarks on your hand. Let us take the 
->> example of the first solution, Hands. 
->> We feed a stream of images as input which comes out with hand landmarks rendered on the images. Now the 
->> index finger gets selected and we draw the snake using opencv.
+This game uses mediapipe, which is a model trained by google to recognise the hands and opencv 
+to recognize your index finger from the identified landmarks on your hand. Let us take the 
+example of the first solution, Hands. 
+We feed a stream of images as input which comes out with hand landmarks rendered on the images. Now the 
+index finger gets selected and we draw the snake using opencv.
 
 ## how to play ?!
 
